@@ -67,7 +67,6 @@ jobs:
           registry-url: "https://registry.npmjs.org/"
           scope: "@medrivia"
       - name: "Publish to NPM"
-        working-directory: packages/${{ inputs.pkg }}
         run: npm publish --provenance --access public --tag $TAG
         env:
           NPM_CONFIG_TOKEN: ${{secrets.NPM_TOKEN}}
