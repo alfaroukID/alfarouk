@@ -18,6 +18,6 @@ More info coming soon...
 
 # BUGS
 
-Bugs can be reported and filed at https://github.com/medrivia/alfarouk/issues
+Bugs can be reported and filed at https://github.com/alfaroukID/alfarouk/issues
 
 If you are using an out of date or downstream version of it, please make sure that the bug you want to report hasn't been already fixed or otherwise caused by a downstream patch.
